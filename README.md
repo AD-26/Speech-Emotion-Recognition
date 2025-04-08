@@ -29,3 +29,25 @@ A machine learning-based web application for predicting emotions from speech usi
    ```bash
    git clone https://github.com/your-username/speech-emotion-recognition.git
    cd speech-emotion-recognition
+
+🎤 Supported Emotions
+Neutral
+
+Calm
+
+Happy
+
+Sad
+
+Angry
+
+Fearful
+
+Disgust
+
+Surprised
+
+🧪 Evaluation
+Accuracy scores for each model
+
+Confusion matrices auto-generated from file names
